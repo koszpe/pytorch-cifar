@@ -1,2 +1,2 @@
-IMAGE_NAME=koszpe/torch
+IMAGE_NAME=koszpe/pytorch
 REPO_NAME=pytorch-cifar  # This affect the folder structure created by docker_run.sh script
